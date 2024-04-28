@@ -72,7 +72,7 @@
 		018610BE2BDE176A002C59C5 /* DZ_10 */ = {
 			isa = PBXGroup;
 			children = (
-				018610EB2BDE36B2002C59C5 /* MakeImageView.swift */,
+				018610ED2BDE6B45002C59C5 /* AllfuncMake */,
 				018610E62BDE2D0C002C59C5 /* Ext */,
 				018610E52BDE207A002C59C5 /* Application */,
 				018610E42BDE206E002C59C5 /* Models */,
@@ -153,6 +153,14 @@
 				018610E92BDE34CE002C59C5 /* View */,
 			);
 			path = MainScreen;
+			sourceTree = "<group>";
+		};
+		018610ED2BDE6B45002C59C5 /* AllfuncMake */ = {
+			isa = PBXGroup;
+			children = (
+				018610EB2BDE36B2002C59C5 /* MakeImageView.swift */,
+			);
+			path = AllfuncMake;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

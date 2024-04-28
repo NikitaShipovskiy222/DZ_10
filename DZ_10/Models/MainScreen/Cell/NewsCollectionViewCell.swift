@@ -18,9 +18,6 @@ final class NewsCollectionViewCell: UICollectionViewCell, CellProtocol {
             label.textColor = .white
             label.numberOfLines = 0
         }
-//        $0.font = UIFont.systemFont(ofSize: 24, weight: .bold)
-//        $0.textColor = .white
-//        return $0
     }(UILabel(/*frame: CGRect(x: 24, y: 25, width: imgView.frame.width, height: 29)*/))
     
     lazy var textLabel: UILabel = {

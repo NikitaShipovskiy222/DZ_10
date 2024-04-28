@@ -47,7 +47,6 @@ final class MessengeCollectionViewCell: UICollectionViewCell, CellProtocol {
     private func makeConstraint() {
         NSLayoutConstraint.activate([
             imgView.topAnchor.constraint(equalTo: topAnchor, constant: 13),
-           // imgView.bottomAnchor.constraint(equalTo: bottomAnchor, constant: -13),
             imgView.leadingAnchor.constraint(equalTo: leadingAnchor, constant: 10),
             
             
